@@ -6,4 +6,4 @@ Pretty cool isn't it?
 
 ---
 
-Yeah i've got to admit it's pretty cool. 
+Yes i've got to admit it's pretty cool!
