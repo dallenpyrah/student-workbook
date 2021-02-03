@@ -8,7 +8,7 @@ A Pseudo-Class can change an element on a page using CSS to behave a different w
 
 2. What is Specificity and how might you use it to your benefit?
 
-Specificity is the importance given to a certian tag, class, or Id. Tags by themselves have a specificity of 1, classes have a specificity of 10, and Id's have a specificity of 100. One way that will hurt me in the long wrong is using the style element in my html sheet in order to style a certian tag like h1 because of its high specificity of 1000 it will be very hard to overide. The way that I can use it to my benefit is by starting out with a low specificity and target tags like <div> or <body> for example so that later on I can add a class to the tags and overide it without ever changing the CSS rules for those tags. 
+Specificity is the importance given to a certian tag, class, or Id. Tags by themselves have a specificity of 1, classes have a specificity of 10, and Id's have a specificity of 100. One way that will hurt me in the long wrong is using the style element in my html sheet in order to style a certian tag like h1 because of its high specificity of 1000 it will be very hard to overide. The way that I can use it to my benefit is by starting out with a low specificity and target tags like div or body for example so that later on I can add a class to the tags and overide it without ever changing the CSS rules for those tags. 
 
 3. What problems do you think you could run into if you over-utilized the !important feature?
 
