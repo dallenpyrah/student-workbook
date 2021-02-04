@@ -1,6 +1,4 @@
-# Week one
-
-## Journal two
+# Week 1 Journal 2
 
 1. What is a Pseudo-Class and what are some of the most common ones you think you will use?
 
