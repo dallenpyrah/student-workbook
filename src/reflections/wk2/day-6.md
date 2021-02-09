@@ -11,3 +11,5 @@
 3. In what cases might you use let vs const vs var?
 
     Let is what I will use in most cases with my coding process because of its improvement over variable. Let allows us to update the variable within its scope but it will not allow us to redeclare that variable within its scope. This makes it easier because our code will not be constantly getting redeclared within our Javascript making it easier for us to use the same variable over again. Unless its absolutely necassary I won't be using var in my code to save stress down the line. Const on the other hand is different from those two entirely, it cannot be redeclared or updated which makes sense since const is short for Constant. This allows us to have a constant variable within our script that is not allowed to change. It's usefull when we specifically dont want that variable to change in any instance. 
+
+    https://github.com/dallenpyrah/js-challenges
