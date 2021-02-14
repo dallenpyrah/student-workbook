@@ -1,4 +1,4 @@
-# Week two Journal 7
+# Week 2 Journal 7
 
 1. What are the three ways to syntactically write a function? What are the differences in how the function acts (if any)?
 

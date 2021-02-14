@@ -1,4 +1,4 @@
-# Week Two Journal 6 
+# Week 2 Journal 6 
 
 1. What is Scope ?
 
