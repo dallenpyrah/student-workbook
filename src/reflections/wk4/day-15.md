@@ -12,3 +12,5 @@ Asynchronous just means it will take some time or it will happen in the future. 
 
 The first way is too keep the code shallow this means naming functions so that they arent anonymous which makes it easier for us to read the code and understand what it is doing. This allows us to move functions around making the code look cleaner and be able to reference them by their names. The second way to avoid Callback Hell is by creating modules, these seperate parts of our code into bite size chunks rather than having it all in one place making it hard to read and understand. This way each module has a specific task to do, you wouldn't want to go to work and everything is unorganized while no one has been told what their specific task is. The third way is to handle every single error! No matter what error it is we should make sure that we take care of it because even if we dont think it has anything to do with our application or its not affecting it, we should still try to resolve it so that our applications have less of a chance at failing. 
 
+https://github.com/dallenpyrah/triviagame
+
