@@ -1,3 +1,5 @@
+# Week 6 Journal 2
+
 - What are props?
 
 Props are how we pass variables and other information around between different components. Its similiar to how we can pass variable into functions as arguements. We pass props to another component and that component can now use that value. 
